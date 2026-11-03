@@ -1,5 +1,19 @@
 # Nova Fintech
 
+<div align="center">
+
+<p><strong>FINTECH MOBILE APP PROTOTYPE</strong></p>
+
+<img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge" alt="Dart" />
+<img src="https://img.shields.io/badge/Riverpod-0F172A?style=for-the-badge" alt="Riverpod" />
+
+<a href="https://github.com/rahat-codes/nova_fintech"><img src="https://img.shields.io/github/stars/rahat-codes/nova_fintech?style=social" alt="GitHub stars" /></a>
+
+</div>
+
+---
+
 A modern fintech mobile application prototype built with Flutter and Dart. The project focuses on a polished mobile experience, reusable UI structure, and a foundation for adding real financial-product functionality.
 
 > **Project status:** Portfolio/demo application. It is not a real banking service and does not process real payments or hold customer funds.
